@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'hmsap'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E788F70D40B94ABA95EB878FFED013EB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B2C792B579F4B049A2265B1FB77A11A }}
           package: .

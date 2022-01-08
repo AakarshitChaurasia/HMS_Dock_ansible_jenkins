@@ -1,0 +1,4 @@
+1) Deploy resource group
+2) Now add web app
+3) Now add the mysql flexible server--> with changes like a) require_secure_transport=ON -- off
+							  b)require_secure_transport=ON -- off(uncheck) in server parameters
